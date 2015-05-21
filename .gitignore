@@ -1,0 +1,6 @@
+built/
+*.suo
+*.swp
+.python-version
+__pycache__
+/config/local
